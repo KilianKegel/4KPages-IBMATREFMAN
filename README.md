@@ -1,8 +1,6 @@
 # 4KPages-IBMATREFMAN
 ## IBM-AT Reference Manual
 
-[PDF](https://1drv.ms/b/c/ff234b6fa870c030/ERNDXBhb6EBDhbaj_U0k8CoBusxSzH7-hWGKWOqQRf9jFw)
-
 ![](https://github.com/KilianKegel/4KPages-IBMATREFMAN/blob/main/images/IBMATREFMAN_000.jpg) 
 ![](https://github.com/KilianKegel/4KPages-IBMATREFMAN/blob/main/images/IBMATREFMAN_001.jpg) 
 ![](https://github.com/KilianKegel/4KPages-IBMATREFMAN/blob/main/images/IBMATREFMAN_002.jpg) 
